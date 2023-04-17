@@ -1,0 +1,20 @@
+{
+    "amigos": [
+      {
+        "nome": "Ana",
+        "idade": 28,
+        "cidade": "São Paulo"
+      },
+      {
+        "nome": "Pedro",
+        "idade": 32,
+        "cidade": "Rio de Janeiro"
+      },
+      {
+        "nome": "Mariana",
+        "idade": 25,
+        "cidade": "Belo Horizonte"
+      }
+    ]
+  }
+  
