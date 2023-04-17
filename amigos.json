@@ -3,17 +3,53 @@
       {
         "nome": "Ana",
         "idade": 28,
-        "cidade": "São Paulo"
+        "cidade": "São Paulo",
+        "cursos": [
+        {
+          "nome": "Python para iniciantes",
+          "categoria": "Programação",
+          "avaliacao": 4.5
+        },
+        {
+          "nome": "Introdução à ciência de dados",
+          "categoria": "Ciência de dados",
+          "avaliacao": 3.8
+        }
+      ]
       },
       {
         "nome": "Pedro",
         "idade": 32,
-        "cidade": "Rio de Janeiro"
+        "cidade": "Rio de Janeiro",
+        "cursos": [
+          {
+            "nome": "Banco de dados",
+            "categoria": "Banco de dados",
+            "avaliacao": 3.9
+          },
+          {
+            "nome": "Java avançado",
+            "categoria": "Programação",
+            "avaliacao": 4.1
+          }
+        ]
       },
       {
         "nome": "Mariana",
         "idade": 25,
-        "cidade": "Belo Horizonte"
+        "cidade": "Belo Horizonte",
+        "cursos": [
+          {
+            "nome": "Web development",
+            "categoria": "Programação",
+            "avaliacao": 4.2
+          },
+          {
+            "nome": "Design gráfico",
+            "categoria": "Design",
+            "avaliacao": 3.7
+          }
+        ]
       }
     ]
   }
