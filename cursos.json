@@ -1,0 +1,142 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "João",
+      "idade": 25,
+      "cursos": [
+        {
+          "nome": "Introdução à Programação em Python",
+          "categoria": "Programação",
+          "avaliacao": 4.5
+        },
+        {
+          "nome": "Desenvolvimento Web com HTML, CSS e JavaScript",
+          "categoria": "Programação",
+          "avaliacao": 3.5
+        },
+        {
+          "nome": "Inglês Intermediário",
+          "categoria": "Idiomas",
+          "avaliacao": 4.0
+        }
+      ],
+      "amigos": [
+        {
+          "id": 5,
+          "nome": "Maria",
+          "cursos": [
+            {
+              "nome": "Finanças Pessoais",
+              "categoria": "Finanças",
+              "avaliacao": 4.2
+            },
+            {
+              "nome": "Marketing Digital",
+              "categoria": "Negócios",
+              "avaliacao": 3.8
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "nome": "Pedro",
+          "cursos": [
+            {
+              "nome": "Programação Orientada a Objetos em Java",
+              "categoria": "Programação",
+              "avaliacao": 4.0
+            },
+            {
+              "nome": "Cálculo Diferencial e Integral",
+              "categoria": "Matemática",
+              "avaliacao": 3.5
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nome": "Maria",
+          "cursos": [
+            {
+              "nome": "Marketing Digital",
+              "categoria": "Marketing",
+              "avaliacao": 4.5
+            },
+            {
+              "nome": "Publicidade e Propaganda",
+              "categoria": "P&P",
+              "avaliacao": 3.5
+            },
+            {
+              "nome": "Design Gráfico",
+              "categoria": "Design",
+              "avaliacao": 4.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "idade": 18,
+      "cursos": [
+        {
+          "nome": "Marketing Digital",
+          "categoria": "Marketing",
+          "avaliacao": 4.5
+        },
+        {
+          "nome": "Publicidade e Propaganda",
+          "categoria": "P&P",
+          "avaliacao": 3.5
+        },
+        {
+          "nome": "Design Gráfico",
+          "categoria": "Design",
+          "avaliacao": 4.0
+        }
+      ],
+      "amigos": [
+        {
+          "id": 1,
+          "nome": "João",
+          "cursos": [
+            {
+              "nome": "Introdução à Programação em Python",
+              "categoria": "Programação",
+              "avaliacao": 4.5
+            },
+            {
+              "nome": "Desenvolvimento Web com HTML, CSS e JavaScript",
+              "categoria": "Programação",
+              "avaliacao": 3.5
+            },
+            {
+              "nome": "Inglês Intermediário",
+              "categoria": "Idiomas",
+              "avaliacao": 4.0
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nome": "Pedro",
+          "cursos": [
+            {
+              "nome": "Programação Orientada a Objetos em Java",
+              "categoria": "Programação",
+              "avaliacao": 4.0
+            },
+            {
+              "nome": "Cálculo Diferencial e Integral",
+              "categoria": "Matemática",
+              "avaliacao": 3.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
